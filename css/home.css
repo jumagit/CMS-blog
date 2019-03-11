@@ -1,0 +1,17 @@
+body{
+	margin: 0px;
+	padding:0px;
+	background-color: lightgray !important;
+
+}
+
+{
+	-moz-box-sizing:border-box;
+}
+
+ul,h4{
+	padding:0px;
+	margin: 0px;
+	list-style-type: none;
+}
+
